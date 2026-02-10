@@ -1,1 +1,7 @@
-privet
+https://raw.githubusercontent.com/DarkFirexs/Whitelist-bypass_VPN/refs/heads/main/Whitelist%20%7C%20VPN
+https://raw.githubusercontent.com/SilentGhostCodes/WhiteListVpn/refs/heads/main/config.txt
+https://raw.githubusercontent.com/LimeHi/LimeVPN/refs/heads/main/LimeVPN.txt
+https://raw.githubusercontent.com/terik21/HiddifySubs-VlessKeys/refs/heads/main/WhiteKeys
+https://raw.githubusercontent.com/GGvpn-cloud/happ-subscription/refs/heads/main/new-white.txt
+https://github.com/restlycames/RestlyConnect_sub/raw/refs/heads/main/whitelists.txt
+https://sub-rostunnel.vercel.app/subs/gen.txt
