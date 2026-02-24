@@ -5,5 +5,6 @@ https://raw.githubusercontent.com/SilentGhostCodes/WhiteListVpn/refs/heads/main/
 https://raw.githubusercontent.com/terik21/HiddifySubs-VlessKeys/refs/heads/main/WhiteKeys
 https://raw.githubusercontent.com/GGvpn-cloud/happ-subscription/refs/heads/main/new-white.txt
 https://github.com/restlycames/RestlyConnect_sub/raw/refs/heads/main/whitelists.txt
-https://cdn.proxyliberty.ru/connection/test_proxies_subs/ecb8c47f-f286-4226-abe2-9ee05d92e7d7
+https://tinyurl.com/RTC141neww
+
 
