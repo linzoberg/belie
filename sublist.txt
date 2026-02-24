@@ -2,7 +2,6 @@ https://raw.githubusercontent.com/LimeHi/LimeVPN/refs/heads/main/LimeVPN.txt
 https://raw.githubusercontent.com/DarkFirexs/Whitelist-bypass/refs/heads/main/Whitelist
 https://raw.githubusercontent.com/SilentGhostCodes/WhiteListVpn/refs/heads/main/Whitelist.txt
 https://raw.githubusercontent.com/terik21/HiddifySubs-VlessKeys/refs/heads/main/WhiteKeys
-https://raw.githubusercontent.com/GGvpn-cloud/happ-subscription/refs/heads/main/new-white.txt
 https://github.com/restlycames/RestlyConnect_sub/raw/refs/heads/main/whitelists.txt
 https://tinyurl.com/RTC141neww
 https://gbr.mydan.online/configs
