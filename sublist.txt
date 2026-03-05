@@ -3,6 +3,22 @@ https://raw.githubusercontent.com/terik21/HiddifySubs-VlessKeys/refs/heads/main/
 https://github.com/restlycames/RestlyConnect_sub/raw/refs/heads/main/whitelists.txt
 https://tinyurl.com/RTC141neww
 https://gbr.mydan.online/configs
+not checked:
+https://gitverse.ru/api/repos/LowiK/LowiKLive/raw/branch/main/ObhodBSfree.txt
+https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/Vless-Reality-White-Lists-Rus-Mobile.txt
+https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/26.txt
+https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt
+https://raw.githubusercontent.com/RYZgames31/UWB/refs/heads/main/wcfg
+https://etoneya.a9fm.site/whitelist
+https://s3c3.001.gpucloud.ru/dixsm/htxml
+https://wlr.s3-website.cloud.ru/zNhbYZtBc
+https://gitverse.ru/api/repos/LowiK/LowiKLive/raw/branch/main/WhiteList-Bypass_Ru.txt
+https://storage.yandexcloud.net/cid-vpn/whitelist.txt
+https://raw.githubusercontent.com/officialdakari/psychic-octo-tribble/refs/heads/main/subwl.txt
+https://raw.githubusercontent.com/RKPchannel/RKP_bypass_configs/refs/heads/main/configs
+https://raw.githubusercontent.com/Ai123999/WhiteeListSub/refs/heads/main/whitelistkeys
+https://raw.githubusercontent.com/vsevjik/OBSpiskov/refs/heads/main/wwh
+https://raw.githubusercontent.com/y9felix/s/refs/heads/main/r
 not work:
 https://raw.githubusercontent.com/LimeHi/LimeVPN/refs/heads/main/LimeVPN.txt
 https://raw.githubusercontent.com/DarkFirexs/Whitelist-bypass/refs/heads/main/Whitelist
