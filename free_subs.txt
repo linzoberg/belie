@@ -1,9 +1,8 @@
-checked:
+not checked:
 https://raw.githubusercontent.com/terik21/HiddifySubs-VlessKeys/refs/heads/main/WhiteKeys
 https://github.com/restlycames/RestlyConnect_sub/raw/refs/heads/main/whitelists.txt
 https://tinyurl.com/RTC141neww
 https://gbr.mydan.online/configs
-not checked:
 https://gitverse.ru/api/repos/LowiK/LowiKLive/raw/branch/main/ObhodBSfree.txt
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/Vless-Reality-White-Lists-Rus-Mobile.txt
 https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/26.txt
