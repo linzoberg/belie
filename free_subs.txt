@@ -1,11 +1,25 @@
 # Подписки
 
   рабочие для белых списков:
-
-проверены, работают: 
 https://raw.githubusercontent.com/mmaksim9191/my-vpn-configs/refs/heads/main/configs/white-cidr-checked.txt
 
-не проверены:
+  рабочие для Wi-Fi (не белые списки):
+https://raw.githubusercontent.com/LimeHi/LimeVPN/refs/heads/main/LimeVPN.txt
+
+  на проверке:
+https://raw.githubusercontent.com/Temnuk/naabuzil/refs/heads/main/Svoboda
+https://raw.githubusercontent.com/ssavnayt/AWCFG-CONFIG-LIST/refs/heads/main/Configs-AUTO.txt
+https://raw.githubusercontent.com/LimeHi/LimeVPN/refs/heads/main/LimeVPN.txt
+https://raw.githubusercontent.com/DarkFirexs/Whitelist-bypass/refs/heads/main/Whitelist
+https://raw.githubusercontent.com/GGvpn-cloud/happ-subscription/refs/heads/main/new-white.txt
+https://raw.githubusercontent.com/SilentGhostCodes/WhiteListVpn/refs/heads/main/Whitelist.txt
+
+  не проверены:
+https://raw.githubusercontent.com/47AgEnT-47/vpn-configs/refs/heads/main/configs.txt
+https://raw.githubusercontent.com/VPN-cat/VPN/refs/heads/main/configs/VPN-cat-top-100
+https://raw.githubusercontent.com/hiztin/VLESS-PO-GRIBI/main/deploy/subscriptions/1.txt
+https://raw.githubusercontent.com/VP01596/vless-top15/refs/heads/main/top100.txt
+https://autosub-config.vercel.app/sub.txt
 https://raw.githubusercontent.com/Kirillo4ka/eavevpn-configs/refs/heads/main/WHITE-CIDR-RU-checked.txt
 https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-checked.txt
@@ -34,15 +48,7 @@ https://raw.githubusercontent.com/Ai123999/WhiteeListSub/refs/heads/main/whiteli
 https://raw.githubusercontent.com/vsevjik/OBSpiskov/refs/heads/main/wwh
 https://raw.githubusercontent.com/y9felix/s/refs/heads/main/r
 
-  рабочие для Wi-Fi (не белые списки):
-
-https://raw.githubusercontent.com/LimeHi/LimeVPN/refs/heads/main/LimeVPN.txt
-
   нерабочие вообще:
 
-https://raw.githubusercontent.com/Temnuk/naabuzil/refs/heads/main/Svoboda
-https://raw.githubusercontent.com/ssavnayt/AWCFG-CONFIG-LIST/refs/heads/main/Configs-AUTO.txt
-https://raw.githubusercontent.com/LimeHi/LimeVPN/refs/heads/main/LimeVPN.txt
-https://raw.githubusercontent.com/DarkFirexs/Whitelist-bypass/refs/heads/main/Whitelist
-https://raw.githubusercontent.com/GGvpn-cloud/happ-subscription/refs/heads/main/new-white.txt
-https://raw.githubusercontent.com/SilentGhostCodes/WhiteListVpn/refs/heads/main/Whitelist.txt
+
+
