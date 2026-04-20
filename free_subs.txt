@@ -1,4 +1,15 @@
-not checked:
+не проверены:
+https://raw.githubusercontent.com/Temnuk/naabuzil/refs/heads/main/Svoboda
+https://raw.githubusercontent.com/ssavnayt/AWCFG-CONFIG-LIST/refs/heads/main/Configs-AUTO.txt
+https://raw.githubusercontent.com/mmaksim9191/my-vpn-configs/refs/heads/main/configs/white-cidr-checked.txt
+https://raw.githubusercontent.com/Kirillo4ka/eavevpn-configs/refs/heads/main/WHITE-CIDR-RU-checked.txt
+https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt
+https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-checked.txt
+https://raw.githubusercontent.com/Mihuil121/vpn-checker-backend-fox/main/checked/RU_Best/ru_white.txt
+https://whiteprime.github.io/xraycheck/
+https://raw.githubusercontent.com/GoldCaviar/vpn-configs-for-russia/refs/heads/main/Vless-Reality-White-Lists-Rus-Mobile.txt
+https://gist.githubusercontent.com/sevushyamamoto-stack/9341be7a058e132154d407d082a60fb1/raw/mysub.txt
+https://raw.githubusercontent.com/amindzlvess-boop/SlashVPN/refs/heads/main/vpn.txt
 https://raw.githubusercontent.com/terik21/HiddifySubs-VlessKeys/refs/heads/main/WhiteKeys
 https://github.com/restlycames/RestlyConnect_sub/raw/refs/heads/main/whitelists.txt
 https://tinyurl.com/RTC141neww
@@ -18,7 +29,9 @@ https://raw.githubusercontent.com/RKPchannel/RKP_bypass_configs/refs/heads/main/
 https://raw.githubusercontent.com/Ai123999/WhiteeListSub/refs/heads/main/whitelistkeys
 https://raw.githubusercontent.com/vsevjik/OBSpiskov/refs/heads/main/wwh
 https://raw.githubusercontent.com/y9felix/s/refs/heads/main/r
-not work:
+
+нерабочие:
+
 https://raw.githubusercontent.com/LimeHi/LimeVPN/refs/heads/main/LimeVPN.txt
 https://raw.githubusercontent.com/DarkFirexs/Whitelist-bypass/refs/heads/main/Whitelist
 https://raw.githubusercontent.com/GGvpn-cloud/happ-subscription/refs/heads/main/new-white.txt
