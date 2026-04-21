@@ -2,11 +2,11 @@
 
   рабочие для белых списков:
 https://raw.githubusercontent.com/mmaksim9191/my-vpn-configs/refs/heads/main/configs/white-cidr-checked.txt
+https://raw.githubusercontent.com/VP01596/vless-top15/refs/heads/main/All.txt
+https://raw.githubusercontent.com/hiztin/VLESS-PO-GRIBI/main/deploy/subscriptions/1.txt
 
   рабочие для Wi-Fi (не белые списки):
 https://raw.githubusercontent.com/LimeHi/LimeVPN/refs/heads/main/LimeVPN.txt
-https://raw.githubusercontent.com/VP01596/vless-top15/refs/heads/main/All.txt
-https://raw.githubusercontent.com/hiztin/VLESS-PO-GRIBI/main/deploy/subscriptions/1.txt
 https://raw.githubusercontent.com/SilentGhostCodes/WhiteListVpn/refs/heads/main/Whitelist.txt
 
   на проверке:
